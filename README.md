@@ -1,4 +1,4 @@
-**Assignment: Image Classification and Retrieval Using Deep Learning Models**
+# **Assignment: Image Classification and Retrieval Using Deep Learning Models**
 
 **Task 01: Implementing a Basic CNN Model from Scratch**
 
@@ -21,7 +21,7 @@ In this task, I developed a Python program for image retrieval using a pre-train
 
 2. **Task 02:** Run the `task_02_fine_tuning.py` script. Ensure you have a pre-trained MobileNetV2 model and the required dataset. Modify the script to specify the path to the pre-trained model and adjust other hyperparameters as necessary.
 
-3. **Task 03:** Execute the `image_retrieval.py` script. Make sure to have the pre-trained VGG16 model file and the "query_images" and "images_database" folders in the same directory. Follow the prompts to select a query image and observe the program retrieving similar images based on the VGG16 features and Euclidean distance metric.
+3. **Task 03:** Execute the `image_retrieval.py` script. Make sure to have the pre-trained cifar_MobileNet model file and the "query_images" and "images_database" folders in the same directory. Follow the prompts to select a query image and observe the program retrieving similar images based on the MobileNet features and Euclidean distance metric.
 
 **Sample Query Images:**
 
